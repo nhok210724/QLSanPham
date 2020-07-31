@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  QLSanPham
 //
-//  Created by Phan Tien Nhan on 7/23/20.
+//  Created by Le Van Nghia on 7/30/20.
 //  Copyright © 2020 QLSanPham. All rights reserved.
 //
 
@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        // Do any additional setup after loading the view, typically from a nib.
     }
 
 
